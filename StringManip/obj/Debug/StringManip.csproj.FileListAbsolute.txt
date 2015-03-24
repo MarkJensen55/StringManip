@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\StringManip\StringManip\bin\Debug\StringManip.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\StringManip\StringManip\obj\Debug\StringManip.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\StringManip\StringManip\bin\Debug\StringManip.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\StringManip\StringManip\bin\Debug\StringManip.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\StringManip\StringManip\obj\Debug\StringManip.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\StringManip\StringManip\obj\Debug\StringManip.pdb
